@@ -1,4 +1,5 @@
--- c:\Users\gotya\AppData\Roaming\local\bin
+main :: IO ()
+main = return ()
 
 
 -- toto = 10
